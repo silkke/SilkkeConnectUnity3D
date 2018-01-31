@@ -1,0 +1,41 @@
+{
+	"LoginPage":
+	{
+		"id_input":"email",
+		"pw_input":"password",
+		"remember":"remember",
+		"signup":"sign up"
+	},
+	"AvatarSelectionPage":
+	{
+		"sponsorTxt":"sponsored",
+		"selectionTxt":"Select your avatar"
+	},
+	"SignUpPage":
+	{
+		"logoText":"I want to create my avatar"
+	},
+	"DescriptionPage":
+	{
+		"Line0":"Unique in the world, your real articulated Avatar!",
+		"Line1":"Hyper realistic, as beautiful as you",
+		"Line2":"Unique, for you, for life",
+		"Line3":"Animated: all human gestures",
+		"Line4":"Fun, bluff your friends!",
+	},
+	"date":
+	{
+		"01":"January",
+		"02":"February",
+		"03":"March",
+		"04":"April",
+		"05":"May",
+		"06":"June",
+		"07":"July",
+		"08":"August",
+		"09":"September",
+		"10":"October",
+		"11":"November",
+		"12":"December"
+	}
+}
