@@ -1,4 +1,4 @@
-# silkkeConnectUnity
+# silkke connect - Unity
 
 #### silkke-connect 
 [EN] This package is the connector between silkke API and Unity application. It's used to get Avatars from users account and to use them in Unity. 
